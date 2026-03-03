@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Unnecessary files
+dummy.mp4
+fix_cross_dataset.py
+plot_cross_dataset.py
+plot_exp3.py
+kaggle_guide.md
+kaggle_data_upload_guide.md
+README_IMAGES.txt
+
+# Paper & docs (private - not for GitHub)
+ieee_paper_latex.tex
+ieee_paper_draft.md
+wpr_11_weeks.md
