@@ -196,4 +196,3 @@ Guide: Dr. Sudhanshu Tripathi, AIIT
 
 ---
 
-## ⭐ If you find this research useful, please star the repository!
