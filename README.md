@@ -192,6 +192,7 @@ python 07_dfdc_evaluation.py
 
 **Simran Chaudhary**  
 MSc Artificial Intelligence & Data Analytics
+<br>
 Amity University, Uttar Pradesh  
 
 
