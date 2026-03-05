@@ -191,8 +191,8 @@ python 07_dfdc_evaluation.py
 ## 👤 Author
 
 **Simran Chaudhary**  
-MSc Artificial Intelligence, Amity University, Uttar Pradesh  
-Guide: Dr. Sudhanshu Tripathi, AIIT
+MSc Artificial Intelligence & Data Analytics, Amity University, Uttar Pradesh  
+
 
 ---
 
